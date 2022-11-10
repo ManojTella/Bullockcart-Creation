@@ -1,11 +1,13 @@
 # Bullockcart-Creation
-##Aim:
+## Aim:
+
 To creat a scene of moving Bullockcart.
 ```
 Developed By:  Manoj Guna Sundar Tella.
 Register No: 212221240026.
 ```
-##Procedure
+## Procedure
+
 1.Start the process by creating a rectanlge and extruding it.
 
 2.Make side fences and combine all of them.
@@ -26,9 +28,9 @@ Register No: 212221240026.
 
 10.It can be done by creating frames for each individual item.
 
-##Output
+## Output
 
 https://youtu.be/BvZfiq7RT38
 
-##Result
+## Result
 Therefore a Bullockcart is created successfully.
